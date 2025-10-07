@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Courses Udemy\\Asp .Net MVC Site do Zero\\LanchesMac-08-2025\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D57EA7EF-80FE-49D8-B6CF-913BA00B2A6C}|LanchesMac\\LanchesMac.csproj|c:\\courses udemy\\asp .net mvc site do zero\\lanchesmac-08-2025\\lanchesmac\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D57EA7EF-80FE-49D8-B6CF-913BA00B2A6C}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Courses Udemy\\Asp .Net MVC Site do Zero\\LanchesMac-08-2025\\LanchesMac\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "LanchesMac\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Courses Udemy\\Asp .Net MVC Site do Zero\\LanchesMac-08-2025\\LanchesMac\\Models\\Categoria.cs",
-              "RelativeToolTip": "LanchesMac\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T20:21:42.74Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

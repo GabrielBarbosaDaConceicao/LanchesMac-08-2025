@@ -1,4 +1,7 @@
-﻿namespace LanchesMac
+﻿using LanchesMac.Context;
+using Microsoft.EntityFrameworkCore;
+
+namespace LanchesMac
 {
     public class Startup
     {
@@ -13,6 +16,9 @@
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 
         // Aqui você configura o pipeline HTTP (middlewares)
